@@ -1,0 +1,732 @@
+Timeframe,how old are you?,1. Do you have a decrease in libido or sex drive?,2. Do you have a lack of energy?,3. Do you have a decrease in strength and/or endurance?,4. Have you lost height?,5. Have you noticed a decrease in your enjoyment of life?,6. Do you feel sad and/or grumpy?,7. Are your erections less strong?,8. Have you noticed a recent deterioration in your ability to play sports?,9. Do you fall asleep after dinner?,10. Has there been a recent deterioration in your performance at work/studies?,11. Have you ever heard of the term "andropause"?,"12. Have you experienced any of the following symptoms: decreased libido, erectile dysfunction, fatigue, mood changes, decreased muscle mass, decreased bone density, or sleep disturbances?","13.  If yes, please specify which symptoms you have experienced.",14. Do you smoke? ,"15. If yes, how many cigarettes do you smoke per day?",16. do you consume alcohol?,"17.  If yes, how many drinks do you have per week?",18. Do you consent to your data being used to develop a machine learning model to predict the level of andropause in men?
+3/30/2023 12:41,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectlile dysfunction ,yes,3,yes,6,yes
+3/30/2023 17:55,47,yes,no,no,yes,yes,no,yes,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+3/30/2023 17:58,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+3/30/2023 17:59,32,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,Decreased libido ,yes,12,No,,yes
+3/30/2023 18:17,34,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,Mood changes ,yes,3,yes,4,yes
+3/30/2023 18:24,36,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,yes,Decreased muscle mass,yes,4,yes,7,yes
+3/30/2023 18:25,38,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,"Mood changes, sleep disturbances ",yes,6,yes,7,yes
+3/30/2023 18:55,40,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,,No,,No,,yes
+3/30/2023 19:02,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+3/30/2023 19:30,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+3/30/2023 20:00,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+3/30/2023 20:12,60,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,,yes,,No,,yes
+3/31/2023 7:22,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+3/31/2023 8:12,31,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,,yes,5,No,,yes
+6/12/2023 9:48,20,no,yes,yes,no,yes,no,yes,no,yes,yes,yes,no,,yes,6,yes,5,No
+6/12/2023 9:49,23,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,Mood changes ,No,,No,,yes
+6/12/2023 10:06,34,no,no,yes,no,no,no,no,yes,no,yes,yes,no,,No,,yes,6,yes
+6/12/2023 10:10,45,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,"Decreased libido, fatigue, mood changes ",yes,3,yes,10,yes
+6/12/2023 10:10,30,no,no,no,no,no,no,no,no,no,no,yes,no,,No,,No,,yes
+6/12/2023 10:49,27,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,Mood changes and Fatigue,No,No,No,No,yes
+6/13/2023 16:25,54,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,14,yes
+6/13/2023 20:24,25,yes,no,yes,no,yes,no,yes,no,yes,no,no,no,,No,,No,,yes
+6/13/2023 20:27,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,"Erectile dysfunction,fatigue",No,,yes,4,yes
+6/13/2023 20:59,32,no,no,no,no,no,no,no,yes,no,no,yes,no,,No,,No,,yes
+6/13/2023 22:04,50,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,Decreased libido,yes,1,No,,yes
+6/13/2023 22:06,57,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue,No,,No,,yes
+6/13/2023 22:08,65,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,"Fatigue, sleep disturbances ",No,,No,,yes
+6/13/2023 22:13,45,no,yes,yes,no,no,no,no,yes,no,yes,yes,no,,yes,3,yes,12,yes
+6/23/2023 10:51,35,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,Fatigue,yes,12,yes,5,yes
+6/23/2023 10:52,36,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Sleep disturbances ,yes,2,No,,yes
+6/23/2023 10:53,37,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,,No,,No,,yes
+6/23/2023 10:53,38,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Mood changes ,No,,yes,6,yes
+6/23/2023 10:56,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectlile dysfunction ,yes,3,yes,6,yes
+6/23/2023 10:57,47,yes,no,no,yes,yes,no,yes,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/23/2023 11:10,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/23/2023 11:15,32,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,Decreased libido ,yes,12,No,,yes
+6/23/2023 11:16,34,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,Mood changes ,yes,3,yes,4,yes
+6/23/2023 11:17,36,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,yes,Decreased muscle mass,yes,4,yes,7,yes
+6/23/2023 11:18,38,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,"Mood changes, sleep disturbances ",yes,6,yes,7,yes
+6/23/2023 11:19,40,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,,No,,No,,yes
+6/23/2023 11:20,42,no,no,no,no,no,no,no,no,yes,no,yes,no,,No,,No,,No
+6/23/2023 11:21,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,5,yes
+6/23/2023 11:22,46,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,5,yes,6,yes
+6/23/2023 11:23,48,yes,no,yes,yes,no,yes,yes,yes,no,no,yes,yes,Mood changes ,yes,5,No,,yes
+6/23/2023 11:24,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,,No,,yes,6,yes
+6/23/2023 11:25,51,yes,yes,yes,yes,no,,no,yes,no,yes,yes,yes,Sleep disturbances ,yes,5,yes,3,yes
+6/23/2023 11:26,52,no,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,Decreased bone density ,No,,No,,yes
+6/23/2023 11:29,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 11:30,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+6/23/2023 11:31,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/23/2023 11:33,60,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,,yes,,No,,yes
+6/23/2023 11:38,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/23/2023 11:39,31,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,,yes,5,No,,yes
+6/23/2023 11:40,33,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Mood changes ,No,,No,,yes
+6/23/2023 11:42,35,no,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,6,yes
+6/23/2023 11:42,37,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Sleep disturbances ,No,,yes,16,yes
+6/23/2023 11:43,39,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 11:45,41,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,Decreased muscle mass ,No,,No,,yes
+6/23/2023 11:46,43,no,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 11:47,45,yes,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Mood changes ,yes,4,yes,6,yes
+6/23/2023 11:48,47,yes,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,Decreased libido ,yes,5,yes,7,yes
+6/23/2023 11:49,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,6,yes
+6/23/2023 11:50,51,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/23/2023 11:52,53,yes,no,no,no,no,yes,yes,yes,yes,no,no,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 11:53,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,6,yes
+6/23/2023 11:53,57,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/23/2023 11:54,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,8,yes
+6/23/2023 11:56,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+6/23/2023 11:57,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Erectile dysfunction ,yes,10,yes,2,yes
+6/23/2023 11:58,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,26,yes
+6/23/2023 12:00,67,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:01,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,4,
+6/23/2023 12:02,22,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,7,No,,yes
+6/23/2023 12:03,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,8,yes
+6/23/2023 12:04,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,8,yes
+6/23/2023 12:05,29,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,8,yes,6,yes
+6/23/2023 12:06,31,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,Fatigue,yes,8,yes,3,yes
+6/23/2023 12:06,33,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,8,yes
+6/23/2023 12:07,35,yes,yes,yes,no,yes,yes,yes,yes,no,yes,no,yes,Decreased muscle mass ,yes,5,yes,9,yes
+6/23/2023 12:08,37,yes,yes,yes,no,yes,yes,yes,no,no,yes,no,yes,Decreased bone density ,yes,7,yes,5,yes
+6/23/2023 12:09,39,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,Sleep disturbances ,yes,4,yes,10,yes
+6/23/2023 12:11,20,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,7,yes
+6/23/2023 12:12,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,9,yes,7,yes
+6/23/2023 12:13,24,yes,yes,yes,no,yes,no,yes,yes,no,yes,yes,yes,Fatigue ,yes,8,yes,5,yes
+6/23/2023 12:15,26,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,yes,Mood changes ,yes,7,yes,8,yes
+6/23/2023 12:15,28,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,3,yes,9,yes
+6/23/2023 12:16,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,
+6/23/2023 12:17,32,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes, Mood changes ,yes,6,,9,
+6/23/2023 12:17,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,9,yes
+6/23/2023 12:18,36,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decrease libido ,yes,7,yes,9,yes
+6/23/2023 12:19,38,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,7,yes
+6/23/2023 12:20,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Fatigue ,No,,No,,yes
+6/23/2023 12:21,42,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:22,44,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,Erectile dysfunction ,yes,9,yes,8,yes
+6/23/2023 12:24,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/23/2023 12:25,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,8,yes
+6/23/2023 12:26,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,8,yes
+6/23/2023 12:27,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,4,yes
+6/23/2023 12:28,54,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 12:28,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,5,yes,4,yes
+6/23/2023 12:29,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,5,yes,8,yes
+6/23/2023 12:30,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,7,yes
+6/23/2023 12:31,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,7,yes
+6/23/2023 12:32,64,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,4,yes,9,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+6/24/2023 23:05,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,5,yes,5,yes
+6/25/2023 10:27,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:27,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,6,yes
+6/25/2023 10:28,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,7,yes
+6/25/2023 10:29,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,7,yes,6,yes
+6/25/2023 10:29,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:30,28,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/25/2023 10:32,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,7,yes
+6/25/2023 10:34,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/25/2023 10:34,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:35,25,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:36,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/25/2023 10:36,35,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,4,yes
+6/25/2023 10:36,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,5,yes
+6/25/2023 10:37,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/25/2023 10:37,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,2,yes,3,yes
+6/25/2023 10:37,32,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,,yes,6,No,,yes
+6/25/2023 10:39,24,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Sleep disturbances ,No,,yes,7,yes
+6/25/2023 10:40,20,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,No,,yes
+6/25/2023 10:41,22,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,yes,4,yes
+6/25/2023 10:41,34,yes,yes,no,yes,no,yes,no,yes,no,yes,no,no,,No,,No,,No
+6/25/2023 10:41,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,fatigue ,yes,4,yes,12,yes
+6/25/2023 10:42,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,6,yes,7,yes
+6/25/2023 10:42,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,mood changes ,No,,yes,10,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,7,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:43,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,decreased muscle mass,yes,2,yes,5,yes
+6/25/2023 10:44,27,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:44,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,7,yes,6,yes
+6/25/2023 10:45,29,no,no,no,no,no,no,no,yes,no,no,yes,yes,decreased libido,yes,6,No,,yes
+6/25/2023 10:45,42,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,9,yes
+6/25/2023 10:45,30,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/25/2023 10:46,36,yes,yes,no,no,yes,yes,no,yes,no,no,yes,yes,Mood changes ,No,,yes,7,yes
+6/25/2023 10:46,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,7,yes
+6/25/2023 10:47,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:47,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,sleep disturbance ,No,,yes,10,yes
+6/25/2023 10:49,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 10:50,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/25/2023 10:51,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,6,yes
+6/25/2023 10:52,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:53,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:57,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,4,yes,7,yes
+6/25/2023 10:57,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/25/2023 10:58,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/25/2023 10:59,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,yes,7,yes
+6/25/2023 11:00,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,No,7,yes,6,yes
+6/25/2023 11:01,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/25/2023 11:02,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Mood changes ,yes,7,yes,7,yes
+6/25/2023 11:04,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,No,4,yes
+6/25/2023 11:04,31,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,9,
+6/25/2023 11:21,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,3,yes
+6/25/2023 11:22,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue and mood changes ,yes,4,yes,5,yes
+6/25/2023 17:34,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,8,yes
+6/25/2023 17:35,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 17:36,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/25/2023 17:37,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/26/2023 7:40,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/26/2023 7:41,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,6,yes
+6/26/2023 7:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 12:17,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,9,yes
+6/23/2023 12:18,36,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decrease libido ,yes,7,yes,9,yes
+6/23/2023 12:19,38,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,7,yes
+6/23/2023 12:20,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Fatigue ,No,,No,,yes
+6/23/2023 12:21,42,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:22,44,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,Erectile dysfunction ,yes,9,yes,8,yes
+6/23/2023 12:24,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/23/2023 12:25,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,8,yes
+6/23/2023 12:26,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,8,yes
+6/23/2023 12:27,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,4,yes
+6/23/2023 12:28,54,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 12:28,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,5,yes,4,yes
+6/23/2023 12:29,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,5,yes,8,yes
+6/23/2023 12:30,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,7,yes
+6/23/2023 12:31,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,7,yes
+6/23/2023 12:32,64,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,4,yes,9,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+3/30/2023 12:41,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectlile dysfunction ,yes,3,yes,6,yes
+3/30/2023 17:55,47,yes,no,no,yes,yes,no,yes,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+3/30/2023 17:58,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+3/30/2023 17:59,32,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,Decreased libido ,yes,12,No,,yes
+3/30/2023 18:17,34,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,Mood changes ,yes,3,yes,4,yes
+3/30/2023 18:24,36,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,yes,Decreased muscle mass,yes,4,yes,7,yes
+3/30/2023 18:25,38,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,"Mood changes, sleep disturbances ",yes,6,yes,7,yes
+3/30/2023 18:55,40,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,,No,,No,,yes
+3/30/2023 19:02,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+3/30/2023 19:30,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+3/30/2023 20:00,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+3/30/2023 20:12,60,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,,yes,,No,,yes
+3/31/2023 7:22,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+3/31/2023 8:12,31,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,,yes,5,No,,yes
+6/12/2023 9:48,20,no,yes,yes,no,yes,no,yes,no,yes,yes,yes,no,,yes,6,yes,5,No
+6/12/2023 9:49,23,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,Mood changes ,No,,No,,yes
+6/12/2023 10:06,34,no,no,yes,no,no,no,no,yes,no,yes,yes,no,,No,,yes,6,yes
+6/12/2023 10:10,45,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,"Decreased libido, fatigue, mood changes ",yes,3,yes,10,yes
+6/12/2023 10:10,30,no,no,no,no,no,no,no,no,no,no,yes,no,,No,,No,,yes
+6/12/2023 10:49,27,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,Mood changes and Fatigue,No,No,No,No,yes
+6/13/2023 16:25,54,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,14,yes
+6/13/2023 20:24,25,yes,no,yes,no,yes,no,yes,no,yes,no,no,no,,No,,No,,yes
+6/13/2023 20:27,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,"Erectile dysfunction,fatigue",No,,yes,4,yes
+6/13/2023 20:59,32,no,no,no,no,no,no,no,yes,no,no,yes,no,,No,,No,,yes
+6/13/2023 22:04,50,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,Decreased libido,yes,1,No,,yes
+6/13/2023 22:06,57,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue,No,,No,,yes
+6/13/2023 22:08,65,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,"Fatigue, sleep disturbances ",No,,No,,yes
+6/13/2023 22:13,45,no,yes,yes,no,no,no,no,yes,no,yes,yes,no,,yes,3,yes,12,yes
+6/23/2023 10:51,35,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,Fatigue,yes,12,yes,5,yes
+6/23/2023 10:52,36,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Sleep disturbances ,yes,2,No,,yes
+6/23/2023 10:53,37,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,,No,,No,,yes
+6/23/2023 10:53,38,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Mood changes ,No,,yes,6,yes
+6/23/2023 10:56,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectlile dysfunction ,yes,3,yes,6,yes
+6/23/2023 10:57,47,yes,no,no,yes,yes,no,yes,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/23/2023 11:10,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/23/2023 11:15,32,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,Decreased libido ,yes,12,No,,yes
+6/23/2023 11:16,34,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,Mood changes ,yes,3,yes,4,yes
+6/23/2023 11:17,36,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,yes,Decreased muscle mass,yes,4,yes,7,yes
+6/23/2023 11:18,38,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,"Mood changes, sleep disturbances ",yes,6,yes,7,yes
+6/23/2023 11:19,40,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,,No,,No,,yes
+6/23/2023 11:20,42,no,no,no,no,no,no,no,no,yes,no,yes,no,,No,,No,,No
+6/23/2023 11:21,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,5,yes
+6/23/2023 11:22,46,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,5,yes,6,yes
+6/23/2023 11:23,48,yes,no,yes,yes,no,yes,yes,yes,no,no,yes,yes,Mood changes ,yes,5,No,,yes
+6/23/2023 11:24,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,,No,,yes,6,yes
+6/23/2023 11:25,51,yes,yes,yes,yes,no,,no,yes,no,yes,yes,yes,Sleep disturbances ,yes,5,yes,3,yes
+6/23/2023 11:26,52,no,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,Decreased bone density ,No,,No,,yes
+6/23/2023 11:29,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 11:30,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+6/23/2023 11:31,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/23/2023 11:33,60,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,,yes,,No,,yes
+6/23/2023 11:38,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/23/2023 11:39,31,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,,yes,5,No,,yes
+6/23/2023 11:40,33,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Mood changes ,No,,No,,yes
+6/23/2023 11:42,35,no,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,6,yes
+6/23/2023 11:42,37,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Sleep disturbances ,No,,yes,16,yes
+6/23/2023 11:43,39,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 11:45,41,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,Decreased muscle mass ,No,,No,,yes
+6/23/2023 11:46,43,no,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 11:47,45,yes,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Mood changes ,yes,4,yes,6,yes
+6/23/2023 11:48,47,yes,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,Decreased libido ,yes,5,yes,7,yes
+6/23/2023 11:49,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,6,yes
+6/23/2023 11:50,51,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/23/2023 11:52,53,yes,no,no,no,no,yes,yes,yes,yes,no,no,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 11:53,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,6,yes
+6/23/2023 11:53,57,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/23/2023 11:54,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,8,yes
+6/23/2023 11:56,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+6/23/2023 11:57,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Erectile dysfunction ,yes,10,yes,2,yes
+6/23/2023 11:58,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,26,yes
+6/23/2023 12:00,67,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:01,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,4,
+6/23/2023 12:02,22,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,7,No,,yes
+6/23/2023 12:03,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,8,yes
+6/23/2023 12:04,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,8,yes
+6/23/2023 12:05,29,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,8,yes,6,yes
+6/23/2023 12:06,31,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,Fatigue,yes,8,yes,3,yes
+6/23/2023 12:06,33,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,8,yes
+6/23/2023 12:07,35,yes,yes,yes,no,yes,yes,yes,yes,no,yes,no,yes,Decreased muscle mass ,yes,5,yes,9,yes
+6/23/2023 12:08,37,yes,yes,yes,no,yes,yes,yes,no,no,yes,no,yes,Decreased bone density ,yes,7,yes,5,yes
+6/23/2023 12:09,39,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,Sleep disturbances ,yes,4,yes,10,yes
+6/23/2023 12:11,20,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,7,yes
+6/23/2023 12:12,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,9,yes,7,yes
+6/23/2023 12:13,24,yes,yes,yes,no,yes,no,yes,yes,no,yes,yes,yes,Fatigue ,yes,8,yes,5,yes
+6/23/2023 12:15,26,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,yes,Mood changes ,yes,7,yes,8,yes
+6/23/2023 12:15,28,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,3,yes,9,yes
+6/23/2023 12:16,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,
+6/23/2023 12:17,32,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes, Mood changes ,yes,6,,9,
+6/23/2023 12:17,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,9,yes
+6/23/2023 12:18,36,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decrease libido ,yes,7,yes,9,yes
+6/23/2023 12:19,38,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,7,yes
+6/23/2023 12:20,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Fatigue ,No,,No,,yes
+6/23/2023 12:21,42,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:22,44,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,Erectile dysfunction ,yes,9,yes,8,yes
+6/23/2023 12:24,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/23/2023 12:25,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,8,yes
+6/23/2023 12:26,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,8,yes
+6/23/2023 12:27,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,4,yes
+6/23/2023 12:28,54,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 12:28,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,5,yes,4,yes
+6/23/2023 12:29,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,5,yes,8,yes
+6/23/2023 12:30,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,7,yes
+6/23/2023 12:31,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,7,yes
+6/23/2023 12:32,64,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,4,yes,9,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+6/24/2023 23:05,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,5,yes,5,yes
+6/25/2023 10:27,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:27,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,6,yes
+6/25/2023 10:28,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,7,yes
+6/25/2023 10:29,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,7,yes,6,yes
+6/25/2023 10:29,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:30,28,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/25/2023 10:32,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,7,yes
+6/25/2023 10:34,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/25/2023 10:34,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:35,25,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:36,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/25/2023 10:36,35,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,4,yes
+6/25/2023 10:36,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,5,yes
+6/25/2023 10:37,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/25/2023 10:37,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,2,yes,3,yes
+6/25/2023 10:37,32,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,,yes,6,No,,yes
+6/25/2023 10:39,24,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Sleep disturbances ,No,,yes,7,yes
+6/25/2023 10:40,20,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,No,,yes
+6/25/2023 10:41,22,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,yes,4,yes
+6/25/2023 10:41,34,yes,yes,no,yes,no,yes,no,yes,no,yes,no,no,,No,,No,,No
+6/25/2023 10:41,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,fatigue ,yes,4,yes,12,yes
+6/25/2023 10:42,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,6,yes,7,yes
+6/25/2023 10:42,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,mood changes ,No,,yes,10,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,7,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:43,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,decreased muscle mass,yes,2,yes,5,yes
+6/25/2023 10:44,27,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:44,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,7,yes,6,yes
+6/25/2023 10:45,29,no,no,no,no,no,no,no,yes,no,no,yes,yes,decreased libido,yes,6,No,,yes
+6/25/2023 10:45,42,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,9,yes
+6/25/2023 10:45,30,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/25/2023 10:46,36,yes,yes,no,no,yes,yes,no,yes,no,no,yes,yes,Mood changes ,No,,yes,7,yes
+6/25/2023 10:46,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,7,yes
+6/25/2023 10:47,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:47,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,sleep disturbance ,No,,yes,10,yes
+6/25/2023 10:49,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 10:50,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/25/2023 10:51,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,6,yes
+6/25/2023 10:52,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:53,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:57,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,4,yes,7,yes
+6/25/2023 10:57,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/25/2023 10:58,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/25/2023 10:59,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,yes,7,yes
+6/25/2023 11:00,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,No,7,yes,6,yes
+6/25/2023 11:01,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/25/2023 11:02,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Mood changes ,yes,7,yes,7,yes
+6/25/2023 11:04,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,No,4,yes
+6/25/2023 11:04,31,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,9,
+6/25/2023 11:21,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,3,yes
+6/25/2023 11:22,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue and mood changes ,yes,4,yes,5,yes
+6/25/2023 17:34,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,8,yes
+6/25/2023 17:35,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 17:36,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/25/2023 17:37,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/26/2023 7:40,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/26/2023 7:41,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,6,yes
+6/26/2023 7:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 12:17,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,9,yes
+6/23/2023 12:18,36,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decrease libido ,yes,7,yes,9,yes
+6/23/2023 12:19,38,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,7,yes
+6/23/2023 12:20,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Fatigue ,No,,No,,yes
+6/23/2023 12:21,42,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:22,44,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,Erectile dysfunction ,yes,9,yes,8,yes
+6/23/2023 12:24,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/23/2023 12:25,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,8,yes
+6/23/2023 12:26,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,8,yes
+6/23/2023 12:27,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,4,yes
+6/23/2023 12:28,54,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 12:28,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,5,yes,4,yes
+6/23/2023 12:29,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,5,yes,8,yes
+6/23/2023 12:30,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,7,yes
+6/23/2023 12:31,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,7,yes
+6/23/2023 12:32,64,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,4,yes,9,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+3/30/2023 12:41,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectlile dysfunction ,yes,3,yes,6,yes
+3/30/2023 17:55,47,yes,no,no,yes,yes,no,yes,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+3/30/2023 17:58,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+3/30/2023 17:59,32,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,Decreased libido ,yes,12,No,,yes
+3/30/2023 18:17,34,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,Mood changes ,yes,3,yes,4,yes
+3/30/2023 18:24,36,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,yes,Decreased muscle mass,yes,4,yes,7,yes
+3/30/2023 18:25,38,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,"Mood changes, sleep disturbances ",yes,6,yes,7,yes
+3/30/2023 18:55,40,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,,No,,No,,yes
+3/30/2023 19:02,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+3/30/2023 19:30,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+3/30/2023 20:00,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+3/30/2023 20:12,60,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,,yes,,No,,yes
+3/31/2023 7:22,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+3/31/2023 8:12,31,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,,yes,5,No,,yes
+6/12/2023 9:48,20,no,yes,yes,no,yes,no,yes,no,yes,yes,yes,no,,yes,6,yes,5,No
+6/12/2023 9:49,23,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,Mood changes ,No,,No,,yes
+6/12/2023 10:06,34,no,no,yes,no,no,no,no,yes,no,yes,yes,no,,No,,yes,6,yes
+6/12/2023 10:10,45,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,"Decreased libido, fatigue, mood changes ",yes,3,yes,10,yes
+6/12/2023 10:10,30,no,no,no,no,no,no,no,no,no,no,yes,no,,No,,No,,yes
+6/12/2023 10:49,27,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,Mood changes and Fatigue,No,No,No,No,yes
+6/13/2023 16:25,54,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,14,yes
+6/13/2023 20:24,25,yes,no,yes,no,yes,no,yes,no,yes,no,no,no,,No,,No,,yes
+6/13/2023 20:27,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,"Erectile dysfunction,fatigue",No,,yes,4,yes
+6/13/2023 20:59,32,no,no,no,no,no,no,no,yes,no,no,yes,no,,No,,No,,yes
+6/13/2023 22:04,50,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,Decreased libido,yes,1,No,,yes
+6/13/2023 22:06,57,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue,No,,No,,yes
+6/13/2023 22:08,65,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,"Fatigue, sleep disturbances ",No,,No,,yes
+6/13/2023 22:13,45,no,yes,yes,no,no,no,no,yes,no,yes,yes,no,,yes,3,yes,12,yes
+6/23/2023 10:51,35,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,Fatigue,yes,12,yes,5,yes
+6/23/2023 10:52,36,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Sleep disturbances ,yes,2,No,,yes
+6/23/2023 10:53,37,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,,No,,No,,yes
+6/23/2023 10:53,38,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Mood changes ,No,,yes,6,yes
+6/23/2023 10:56,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectlile dysfunction ,yes,3,yes,6,yes
+6/23/2023 10:57,47,yes,no,no,yes,yes,no,yes,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/23/2023 11:10,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/23/2023 11:15,32,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,yes,Decreased libido ,yes,12,No,,yes
+6/23/2023 11:16,34,yes,yes,no,yes,no,yes,yes,yes,yes,no,yes,yes,Mood changes ,yes,3,yes,4,yes
+6/23/2023 11:17,36,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,yes,Decreased muscle mass,yes,4,yes,7,yes
+6/23/2023 11:18,38,yes,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,"Mood changes, sleep disturbances ",yes,6,yes,7,yes
+6/23/2023 11:19,40,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,,No,,No,,yes
+6/23/2023 11:20,42,no,no,no,no,no,no,no,no,yes,no,yes,no,,No,,No,,No
+6/23/2023 11:21,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,5,yes
+6/23/2023 11:22,46,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,5,yes,6,yes
+6/23/2023 11:23,48,yes,no,yes,yes,no,yes,yes,yes,no,no,yes,yes,Mood changes ,yes,5,No,,yes
+6/23/2023 11:24,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,,No,,yes,6,yes
+6/23/2023 11:25,51,yes,yes,yes,yes,no,,no,yes,no,yes,yes,yes,Sleep disturbances ,yes,5,yes,3,yes
+6/23/2023 11:26,52,no,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,Decreased bone density ,No,,No,,yes
+6/23/2023 11:29,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 11:30,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+6/23/2023 11:31,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/23/2023 11:33,60,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,,yes,,No,,yes
+6/23/2023 11:38,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/23/2023 11:39,31,no,yes,no,yes,no,yes,no,yes,no,yes,no,no,,yes,5,No,,yes
+6/23/2023 11:40,33,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Mood changes ,No,,No,,yes
+6/23/2023 11:42,35,no,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,6,yes
+6/23/2023 11:42,37,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Sleep disturbances ,No,,yes,16,yes
+6/23/2023 11:43,39,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 11:45,41,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,Decreased muscle mass ,No,,No,,yes
+6/23/2023 11:46,43,no,yes,no,yes,yes,no,yes,no,yes,no,yes,yes,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 11:47,45,yes,no,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Mood changes ,yes,4,yes,6,yes
+6/23/2023 11:48,47,yes,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,Decreased libido ,yes,5,yes,7,yes
+6/23/2023 11:49,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,6,yes
+6/23/2023 11:50,51,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/23/2023 11:52,53,yes,no,no,no,no,yes,yes,yes,yes,no,no,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 11:53,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,6,yes
+6/23/2023 11:53,57,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/23/2023 11:54,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,8,yes
+6/23/2023 11:56,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,6,yes
+6/23/2023 11:57,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Erectile dysfunction ,yes,10,yes,2,yes
+6/23/2023 11:58,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,26,yes
+6/23/2023 12:00,67,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:01,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,6,yes,4,
+6/23/2023 12:02,22,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,7,No,,yes
+6/23/2023 12:03,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,8,yes
+6/23/2023 12:04,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,8,yes
+6/23/2023 12:05,29,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,8,yes,6,yes
+6/23/2023 12:06,31,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,Fatigue,yes,8,yes,3,yes
+6/23/2023 12:06,33,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,8,yes
+6/23/2023 12:07,35,yes,yes,yes,no,yes,yes,yes,yes,no,yes,no,yes,Decreased muscle mass ,yes,5,yes,9,yes
+6/23/2023 12:08,37,yes,yes,yes,no,yes,yes,yes,no,no,yes,no,yes,Decreased bone density ,yes,7,yes,5,yes
+6/23/2023 12:09,39,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,Sleep disturbances ,yes,4,yes,10,yes
+6/23/2023 12:11,20,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,7,yes
+6/23/2023 12:12,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,9,yes,7,yes
+6/23/2023 12:13,24,yes,yes,yes,no,yes,no,yes,yes,no,yes,yes,yes,Fatigue ,yes,8,yes,5,yes
+6/23/2023 12:15,26,yes,yes,yes,yes,yes,no,yes,no,yes,yes,no,yes,Mood changes ,yes,7,yes,8,yes
+6/23/2023 12:15,28,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,3,yes,9,yes
+6/23/2023 12:16,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,
+6/23/2023 12:17,32,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes, Mood changes ,yes,6,,9,
+6/23/2023 12:17,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,9,yes
+6/23/2023 12:18,36,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decrease libido ,yes,7,yes,9,yes
+6/23/2023 12:19,38,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,7,yes
+6/23/2023 12:20,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Fatigue ,No,,No,,yes
+6/23/2023 12:21,42,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:22,44,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,Erectile dysfunction ,yes,9,yes,8,yes
+6/23/2023 12:24,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/23/2023 12:25,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,8,yes
+6/23/2023 12:26,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,8,yes
+6/23/2023 12:27,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,4,yes
+6/23/2023 12:28,54,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 12:28,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,5,yes,4,yes
+6/23/2023 12:29,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,5,yes,8,yes
+6/23/2023 12:30,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,7,yes
+6/23/2023 12:31,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,7,yes
+6/23/2023 12:32,64,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,4,yes,9,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+6/24/2023 23:05,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,5,yes,5,yes
+6/25/2023 10:27,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:27,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,6,yes
+6/25/2023 10:28,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,7,yes
+6/25/2023 10:29,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,7,yes,6,yes
+6/25/2023 10:29,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:30,28,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/25/2023 10:32,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,7,yes
+6/25/2023 10:34,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/25/2023 10:34,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:35,25,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:36,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/25/2023 10:36,35,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,4,yes
+6/25/2023 10:36,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,5,yes
+6/25/2023 10:37,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/25/2023 10:37,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,2,yes,3,yes
+6/25/2023 10:37,32,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,,yes,6,No,,yes
+6/25/2023 10:39,24,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Sleep disturbances ,No,,yes,7,yes
+6/25/2023 10:40,20,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,No,,yes
+6/25/2023 10:41,22,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,yes,4,yes
+6/25/2023 10:41,34,yes,yes,no,yes,no,yes,no,yes,no,yes,no,no,,No,,No,,No
+6/25/2023 10:41,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,fatigue ,yes,4,yes,12,yes
+6/25/2023 10:42,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,6,yes,7,yes
+6/25/2023 10:42,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,mood changes ,No,,yes,10,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,7,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:43,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,decreased muscle mass,yes,2,yes,5,yes
+6/25/2023 10:44,27,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:44,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,7,yes,6,yes
+6/25/2023 10:45,29,no,no,no,no,no,no,no,yes,no,no,yes,yes,decreased libido,yes,6,No,,yes
+6/25/2023 10:45,42,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,9,yes
+6/25/2023 10:45,30,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/25/2023 10:46,36,yes,yes,no,no,yes,yes,no,yes,no,no,yes,yes,Mood changes ,No,,yes,7,yes
+6/25/2023 10:46,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,7,yes
+6/25/2023 10:47,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:47,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,sleep disturbance ,No,,yes,10,yes
+6/25/2023 10:49,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 10:50,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/25/2023 10:51,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,6,yes
+6/25/2023 10:52,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:53,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:57,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,4,yes,7,yes
+6/25/2023 10:57,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/25/2023 10:58,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/25/2023 10:59,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,yes,7,yes
+6/25/2023 11:00,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,No,7,yes,6,yes
+6/25/2023 11:01,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/25/2023 11:02,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Mood changes ,yes,7,yes,7,yes
+6/25/2023 11:04,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,No,4,yes
+6/25/2023 11:04,31,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,9,
+6/25/2023 11:21,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,3,yes
+6/25/2023 11:22,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue and mood changes ,yes,4,yes,5,yes
+6/25/2023 17:34,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,8,yes
+6/25/2023 17:35,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 17:36,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/25/2023 17:37,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/26/2023 7:40,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/26/2023 7:41,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,6,yes
+6/26/2023 7:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/23/2023 12:17,34,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,9,yes
+6/23/2023 12:18,36,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decrease libido ,yes,7,yes,9,yes
+6/23/2023 12:19,38,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,7,yes
+6/23/2023 12:20,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,Fatigue ,No,,No,,yes
+6/23/2023 12:21,42,yes,yes,yes,no,yes,no,yes,no,yes,yes,yes,yes,Mood changes ,yes,7,yes,9,yes
+6/23/2023 12:22,44,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,Erectile dysfunction ,yes,9,yes,8,yes
+6/23/2023 12:24,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,8,yes,9,yes
+6/23/2023 12:25,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,8,yes,8,yes
+6/23/2023 12:26,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,8,yes
+6/23/2023 12:27,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,4,yes
+6/23/2023 12:28,54,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,Sleep disturbances ,yes,3,yes,4,yes
+6/23/2023 12:28,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,5,yes,4,yes
+6/23/2023 12:29,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,5,yes,8,yes
+6/23/2023 12:30,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,8,yes,7,yes
+6/23/2023 12:31,62,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,7,yes
+6/23/2023 12:32,64,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,4,yes,9,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+6/23/2023 12:33,66,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Sleep disturbances ,yes,5,yes,7,yes
+6/23/2023 12:33,41,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/23/2023 12:34,43,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,8,yes,4,yes
+6/23/2023 12:35,45,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,8,yes,5,yes
+6/23/2023 12:41,47,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,7,yes
+6/23/2023 12:43,69,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbance ,yes,7,yes,5,yes
+6/23/2023 12:46,49,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,4,yes
+6/23/2023 12:47,51,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,9,yes
+6/23/2023 12:48,53,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/23/2023 12:49,55,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,6,yes
+6/23/2023 12:51,57,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,7,yes,4,yes
+6/23/2023 12:52,59,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,8,
+6/23/2023 12:53,61,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/23/2023 12:54,63,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/23/2023 12:56,65,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,9,yes
+6/24/2023 23:01,21,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:01,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,8,yes
+6/24/2023 23:02,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:03,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/24/2023 23:04,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,6,yes,6,yes
+6/24/2023 23:05,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue,yes,5,yes,5,yes
+6/25/2023 10:27,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:27,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,6,yes
+6/25/2023 10:28,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,7,yes
+6/25/2023 10:29,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,7,yes,6,yes
+6/25/2023 10:29,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:30,28,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,7,yes,5,yes
+6/25/2023 10:32,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,7,yes
+6/25/2023 10:34,32,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,yes
+6/25/2023 10:34,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:35,25,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,16,yes,17,yes
+6/25/2023 10:36,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,6,yes,7,yes
+6/25/2023 10:36,35,yes,yes,,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,5,yes,4,yes
+6/25/2023 10:36,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,5,yes
+6/25/2023 10:37,30,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,7,yes
+6/25/2023 10:37,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,2,yes,3,yes
+6/25/2023 10:37,32,yes,no,yes,no,yes,no,yes,no,yes,no,yes,no,,yes,6,No,,yes
+6/25/2023 10:39,24,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Sleep disturbances ,No,,yes,7,yes
+6/25/2023 10:40,20,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,No,,yes
+6/25/2023 10:41,22,no,no,no,no,no,no,no,no,yes,no,no,no,,No,,yes,4,yes
+6/25/2023 10:41,34,yes,yes,no,yes,no,yes,no,yes,no,yes,no,no,,No,,No,,No
+6/25/2023 10:41,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,fatigue ,yes,4,yes,12,yes
+6/25/2023 10:42,36,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,6,yes,7,yes
+6/25/2023 10:42,20,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:42,22,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,mood changes ,No,,yes,10,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,7,yes,7,yes
+6/25/2023 10:43,38,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:43,26,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,decreased muscle mass,yes,2,yes,5,yes
+6/25/2023 10:44,27,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,2,yes
+6/25/2023 10:44,40,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,Fatigue ,yes,7,yes,6,yes
+6/25/2023 10:45,29,no,no,no,no,no,no,no,yes,no,no,yes,yes,decreased libido,yes,6,No,,yes
+6/25/2023 10:45,42,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased libido ,yes,6,yes,9,yes
+6/25/2023 10:45,30,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,Fatigue ,No,,yes,5,yes
+6/25/2023 10:46,36,yes,yes,no,no,yes,yes,no,yes,no,no,yes,yes,Mood changes ,No,,yes,7,yes
+6/25/2023 10:46,44,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased bone density ,yes,5,yes,7,yes
+6/25/2023 10:47,46,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,Mood changes ,yes,7,yes,5,yes
+6/25/2023 10:47,24,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,sleep disturbance ,No,,yes,10,yes
+6/25/2023 10:49,48,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,6,yes,6,yes
+6/25/2023 10:50,50,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Erectile dysfunction ,yes,6,yes,4,yes
+6/25/2023 10:51,52,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,6,yes,6,yes
+6/25/2023 10:52,54,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,yes,6,yes,7,yes
+6/25/2023 10:53,56,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,No,,No,,No
+6/25/2023 10:57,58,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,4,yes,7,yes
+6/25/2023 10:57,60,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,5,yes,5,yes
+6/25/2023 10:58,68,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Decreased muscle mass ,yes,7,yes,4,yes
+6/25/2023 10:59,23,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,yes,7,yes
+6/25/2023 11:00,25,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Mood changes ,No,7,yes,6,yes
+6/25/2023 11:01,27,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Fatigue ,yes,5,yes,7,yes
+6/25/2023 11:02,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,Mood changes ,yes,7,yes,7,yes
+6/25/2023 11:04,29,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,,yes,6,No,4,yes
+6/25/2023 11:04,31,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,Sleep disturbances ,yes,4,yes,9,
